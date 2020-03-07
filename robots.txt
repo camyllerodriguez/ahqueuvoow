@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jiezaipeed.jumoog.io/sitemap.xml
